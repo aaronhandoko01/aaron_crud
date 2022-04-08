@@ -1,0 +1,32 @@
+{
+  "name": "aaron-crud",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@redux-devtools/extension": "^3.2.2",
+    "@reduxjs/toolkit": "^1.8.1",
+    "isomorphic-unfetch": "^3.1.0",
+    "mongoose": "^6.2.9",
+    "morgan": "^1.10.0",
+    "next": "12.1.4",
+    "next-redux-wrapper": "^7.0.5",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-redux": "^7.2.8",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-saga-effects": "^1.1.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.1.2",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "eslint": "8.12.0",
+    "eslint-config-next": "12.1.4"
+  }
+}
